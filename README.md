@@ -1,5 +1,10 @@
 # Gold 财管 · 原生 Android App
 
+> **仓库迁移通知（2026-11-13）**
+>
+> 本项目已迁移至独立仓库 **[bigJiHua/live-APP](https://github.com/bigJiHua/live-APP)**，主线分支为 `main`。
+> 原 `bigJiHua/live` 仓库的 `android-app` 分支**已弃用并停止更新**，请勿再向旧分支提交或拉取代码。
+
 「Gold 财管」个人财务管理 App 的原生 Android 客户端，使用 Kotlin + Jetpack Compose 编写，
 界面与交互对齐 web 端（Vue 3 + Vant），业务覆盖账户、银行卡、账单、流水、报表、预算、资产、
 待办、日记与数据管理。
